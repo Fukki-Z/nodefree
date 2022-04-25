@@ -26,3 +26,8 @@ v2ray订阅链接：https://nodefree.org/dy/20220425.txt
 # 🎖️ 官网更新更快
 
 https://nodefree.org/
+
+# ✈️ 自用机场推荐
+100G只要10元/月，最香的是不限设备数量
+
+https://yiyun.io/#/register?code=xpeINiZl
