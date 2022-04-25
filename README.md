@@ -1,7 +1,11 @@
-# nodefree
-✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔24小时持续更新 | 科学上网 | 翻墙
+# 🏴‍☠️ NodeFree
+✈️ 免费机场 / 免费VPN -> 自动获取免费节点及订阅链接
 
-# ⏰ 自动获取订阅链接
+🎏 vmess/clash/v2ray/trojan/sr/ssr 
+
+🔥 每日持续更新 | 科学上网 | 翻墙
+
+# 🚀 自动获取订阅链接
 
 ⚠️ 注意
 
@@ -13,12 +17,12 @@
 
 反贼、辱华分子、帝国主义走狗、恨国党、精日精美分子、香蕉人等狗日的玩意儿，每使用一次此项目提供的任何资源，必死一个野爹
 
-# 🚀 每日更新
+# ⏰ 每日更新（4月25日已更新）
 
-clash订阅链接：https://nodefree.org/dy/20220424.yaml
+clash订阅链接：https://nodefree.org/dy/20220425.yaml
 
-v2ray订阅链接：https://nodefree.org/dy/20220424.txt
+v2ray订阅链接：https://nodefree.org/dy/20220425.txt
 
-# ⏰ 官网更新更快
+# 🎖️ 官网更新更快
 
 https://nodefree.org/
