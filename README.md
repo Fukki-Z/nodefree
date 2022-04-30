@@ -28,6 +28,8 @@ v2ray订阅链接：https://nodefree.org/dy/20220429.txt
 
 防走丢网址：https://nodefree.org/ 记得前面加https
 
+需要P站会员的+v douyinbp（每天只能通过5个好友）
+
 # ✈️ 自用付费机场推荐
 100G只要10元，最香的是「不限设备数量」
 
