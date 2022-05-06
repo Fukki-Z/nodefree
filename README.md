@@ -1,6 +1,6 @@
-# 🏴‍☠️ NodeFree ｜ 5月5日已更新
+# 🏴‍☠️ NodeFree ｜ 5月6日已更新
 
-✈️ 5月5日更新134个节点，均已测速，可看1080P/4K/8K高清视频
+✈️ 5月5日更新150个节点，均已测速，可看1080P/4K/8K高清视频
 
 🎏 vmess/clash/v2ray/trojan/sr/ssr 
 
@@ -20,9 +20,9 @@
 
 # ⏰ 每日更新
 
-clash订阅链接：https://nodefree.org/dy/20220505.yaml
+clash订阅链接：https://nodefree.org/dy/20220506.yaml
 
-v2ray订阅链接：https://nodefree.org/dy/20220505.txt
+v2ray订阅链接：https://nodefree.org/dy/20220506.txt
 
 全部节点及订阅：https://nodefree.org/p/211.html
 
