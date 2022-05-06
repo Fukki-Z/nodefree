@@ -24,7 +24,7 @@ clash订阅链接：https://nodefree.org/dy/20220506.yaml
 
 v2ray订阅链接：https://nodefree.org/dy/20220506.txt
 
-全部节点及订阅：https://nodefree.org/p/211.html
+全部节点及订阅：https://nodefree.org/p/214.html
 
 # 🎖️ BLOG更新更快
 
