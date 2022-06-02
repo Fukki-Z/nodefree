@@ -20,19 +20,17 @@
 
 # ⏰ 每日更新
 
-clash订阅链接：https://nodefree.org/dy/20220515.yaml
+clash订阅链接：https://nodefree.org/dy/202206/20220602.yaml
 
-v2ray订阅链接：https://nodefree.org/dy/20220515.txt
-
-全部节点及订阅：https://nodefree.org/p/308.html
+v2ray订阅链接：https://nodefree.org/dy/202206/20220602.txt
 
 # 🎖️ BLOG更新更快
 
-防走丢网址：https://nodefree.org/ 记得前面加https
+防走丢网址：https://nodefree.org
 
 需要P站会员的+v douyinbp（每天只能通过5个好友）
 
 # ✈️ 自用付费机场推荐
-100G只要10元，最香的是「不限设备数量」
+每月只要10元，最香的是「不限设备数量」
 
 https://yiyun.io/#/register?code=xpeINiZl
