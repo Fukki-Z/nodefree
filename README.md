@@ -1,4 +1,4 @@
-# ✈️ NodeFree ｜ 6月28日 已更新70个节点
+# ✈️ NodeFree ｜ 6月29日 已更新80个节点
 
 🏴‍ 所有节点均已测速，部分可看1080P/4K/8K高清视频
 
@@ -20,9 +20,9 @@
 
 # ⏰ 每日更新
 
-clash订阅链接：https://nodefree.org/dy/202206/20220628.yaml
+clash订阅链接：https://nodefree.org/dy/202206/20220629.yaml
 
-v2ray订阅链接：https://nodefree.org/dy/202206/20220628.txt
+v2ray订阅链接：https://nodefree.org/dy/202206/20220629.txt
 
 # 🎖️ BLOG更新更快
 
