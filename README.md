@@ -31,4 +31,4 @@ v2ray订阅链接：https://nodefree.org/dy/202208/20220829.txt
 # ✈️ 自用付费机场推荐
 每月只要10元，最香的是「不限设备数量」
 
-https://yiyun.io/#/register?code=xpeINiZl
+### [>>易云](https://yiyun.io/#/register?code=xpeINiZl)
