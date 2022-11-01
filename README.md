@@ -22,7 +22,7 @@
 
 clash订阅链接：https://nodefree.org/dy/202211/20221101.yaml
 
-v2ray订阅链接：https://nodefree.org/dy/202211/20221102.txt
+v2ray订阅链接：https://nodefree.org/dy/202211/20221101.txt
 
 # 🎖️ BLOG更新更快
 
